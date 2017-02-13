@@ -4,7 +4,6 @@
 [all]JokerArt
 [all]Tony
 [all]Hellsing
-[all]Yuuki
 [all]0xpop
 [all]Haxory
 [all]Janney
