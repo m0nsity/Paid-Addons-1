@@ -11,7 +11,6 @@
 [all]Paona
 [all]Sadlysius
 [all]Support
-[all]Ouija
 [all]test
 [all]Astratt
 [all]Jitko
@@ -34,14 +33,11 @@
 [all]Taazuma
 [all]Uzumaki Boruto
 [all]wladi0
-[all]Lil Budd Bazy
 [all]PSDmum
 [all]Qyrie
 [all]rottenentrailz
 [all]Useless
 [all]yorik100
 [all]Acheiropoiesis
-[all]Melanie Martinez
 [all]RandomRitoSpy
-[all]Oliva9977
 [all]Bik
