@@ -50,4 +50,4 @@
 [lux]imsoocool
 [lux]ShmilyD
 [lux]skratche
-[all]zdeadlysinz
+[lux,illaoi]zdeadlysinz
