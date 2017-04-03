@@ -53,3 +53,5 @@
 [lux]derbosss
 [lux,illaoi]zdeadlysinz
 [all]Pejsker
+[yasuo]Galenowa19
+[all]Gamepost
