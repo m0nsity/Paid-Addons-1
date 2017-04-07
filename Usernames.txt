@@ -62,3 +62,4 @@
 [illaoi]MaeHee
 [lux]cttman123
 [lux]fareoh
+[yasuo]darkost
