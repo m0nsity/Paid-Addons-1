@@ -53,7 +53,7 @@
 [lux]ShmilyD
 [lux]skratche
 [lux]derbosss
-[lux,illaoi]zdeadlysinz
+[lux,illaoi,yasuo]zdeadlysinz
 [all]Pejsker
 [yasuo]Galenowa19
 [all]Gamepost
