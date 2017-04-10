@@ -67,3 +67,4 @@
 [yasuo]eric19760811
 [yasuo]igotthepancakes
 [yasuo]alexstbrg
+[yasuo]palino
