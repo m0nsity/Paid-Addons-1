@@ -59,7 +59,7 @@
 [all]Gamepost
 [lux]Namelame123
 [illaoi]FoxR
-[illaoi]MaeHee
+[illaoi,lux,yasuo]MaeHee
 [lux]cttman123
 [lux]fareoh
 [yasuo]darkost
