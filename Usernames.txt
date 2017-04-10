@@ -70,3 +70,4 @@
 [yasuo]palino
 [yasuo]Mustafa Ataturk
 [yasuo]ILikeToCheat
+[yasuo]Prediction
