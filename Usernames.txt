@@ -73,4 +73,4 @@
 [yasuo]Prediction
 [yasuo]Shuixpera
 [yasuo]obito59
-[lux]brady
+[lux,illaoi]brady
