@@ -57,7 +57,6 @@
 [all]Pejsker
 [yasuo]Galenowa19
 [all]Gamepost
-[lux]Namelame123
 [illaoi]FoxR
 [illaoi,lux,yasuo]MaeHee
 [lux]cttman123
