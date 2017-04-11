@@ -62,7 +62,7 @@
 [lux]cttman123
 [lux]fareoh
 [yasuo]darkost
-[yasuo]Namelame123
+[all]Namelame123
 [yasuo]eric19760811
 [yasuo]igotthepancakes
 [yasuo]alexstbrg
