@@ -72,6 +72,6 @@
 [yasuo]Prediction
 [yasuo]Shuixpera
 [yasuo]obito59
-[lux,illaoi]brady
+[lux,yasuo]brady
 [yasuo]hui648400076
 [lux]tolenic
