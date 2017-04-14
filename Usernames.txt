@@ -77,3 +77,5 @@
 [yasuo]hui648400076
 [lux]tolenic
 [yasuo]sn16689
+[yasuo]Dissy
+[yasuo]MiG
