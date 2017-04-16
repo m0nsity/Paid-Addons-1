@@ -25,7 +25,6 @@
 [all]MeLoSenpai
 [all]MrArticuno
 [all]Toyota7
-[all]DamnedNooB
 [all]DanThePMan
 [all]DarkNite
 [all]Enelx
