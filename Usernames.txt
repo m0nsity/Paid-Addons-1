@@ -78,3 +78,4 @@
 [lux]tolenic
 [yasuo]sn16689
 [yasuo]MiG
+[lux]FR4Q5T4R
