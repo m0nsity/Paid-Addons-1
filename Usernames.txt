@@ -79,3 +79,4 @@
 [yasuo]sn16689
 [yasuo]MiG
 [yasuo]Toozi
+[lux]dafuq
