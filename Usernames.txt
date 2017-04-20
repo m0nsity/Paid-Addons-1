@@ -75,7 +75,7 @@
 [yasuo]obito59
 [lux,yasuo]brady
 [yasuo]hui648400076
-[lux,yasuo]tolenic
+[lux,yasuo,illaoi]tolenic
 [yasuo]sn16689
 [yasuo]MiG
 [yasuo]Toozi
