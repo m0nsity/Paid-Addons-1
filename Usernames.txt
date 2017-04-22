@@ -50,7 +50,7 @@
 [illaoi]pumadannyxie
 [illaoi]fazio0
 [lux]winlove
-[lux]imsoocool
+[lux,illaoi,yasuo]imsoocool
 [lux]ShmilyD
 [lux]skratche
 [lux]derbosss
