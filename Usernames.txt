@@ -96,3 +96,4 @@
 [lux]Zentyron
 [yasuo]a657506956
 [yasuo]nasser004
+[yasuo]ojayboyx
