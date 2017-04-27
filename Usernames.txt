@@ -48,7 +48,7 @@
 [illaoi]death1213
 [illaoi]illegal
 [illaoi]pumadannyxie
-[illaoi]fazio0
+[illaoi,yasuo]fazio0
 [lux]winlove
 [lux,illaoi,yasuo]imsoocool
 [lux]ShmilyD
