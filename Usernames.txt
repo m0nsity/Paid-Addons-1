@@ -63,7 +63,7 @@
 [illaoi,lux,yasuo]MaeHee
 [lux,yasuo]cttman123
 [lux]fareoh
-[yasuo,lux,illaoi]darkost
+[lux,illaoi]darkost
 [all]Namelame123
 [yasuo]eric19760811
 [yasuo]igotthepancakes
