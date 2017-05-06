@@ -107,3 +107,4 @@
 [yasuo]EzEloBoost
 [yasuo]dcheater
 [lux]arnon
+[yasuo]Arayth
