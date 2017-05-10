@@ -108,3 +108,4 @@
 [yasuo]dcheater
 [lux]arnon
 [yasuo]Arayth
+[yasuo]BreadSlice
