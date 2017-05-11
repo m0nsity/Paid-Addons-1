@@ -109,3 +109,5 @@
 [lux]arnon
 [yasuo]Arayth
 [yasuo]BreadSlice
+[lux]madara1550
+[lux]kazd
