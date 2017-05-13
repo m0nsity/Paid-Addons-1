@@ -42,6 +42,7 @@
 [all]yorik100
 [all]Acheiropoiesis
 [all]RandomRitoSpy
+[all]Bik
 [illaoi,lux,yasuo]Pepes
 [illaoi]bioblast
 [illaoi]bonoboxd
