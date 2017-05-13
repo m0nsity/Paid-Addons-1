@@ -110,3 +110,4 @@
 [yasuo]BreadSlice
 [lux]madara1550
 [lux]kazd
+[yasuo]Maverick
