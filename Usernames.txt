@@ -119,3 +119,4 @@
 [yasuo]Plureal
 [lux]michiman
 [yasuo]eforos
+[yasuo]bagelskull
