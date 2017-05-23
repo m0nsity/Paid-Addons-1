@@ -119,6 +119,3 @@
 [yasuo]Plureal
 [lux]michiman
 [yasuo]eforos
-[yasuo]bagelskull
-[yasuo]nicho43
-[yasuo]MrEklo
