@@ -46,7 +46,7 @@
 [illaoi,lux,yasuo]Pepes
 [illaoi]bioblast
 [illaoi]bonoboxd
-[illaoi]death1213
+[illaoi,yasuo]death1213
 [illaoi]illegal
 [illaoi]pumadannyxie
 [illaoi,yasuo]fazio0
@@ -127,5 +127,4 @@
 [yasuo]HalfbloodPr
 [lux]fasfad
 [yasuo]tkacjs02
-[yasuo]death1213
 [yasuo]kcorj2244
