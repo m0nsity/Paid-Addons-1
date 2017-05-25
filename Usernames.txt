@@ -127,3 +127,4 @@
 [yasuo]HalfbloodPr
 [lux]toonwizard
 [lux]fasfad
+[yasuo]tkacjs02
