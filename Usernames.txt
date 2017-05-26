@@ -131,3 +131,4 @@
 [yasuo]unclechris
 [yasuo]ShadyXV
 [lux]toonwizard
+[yasuo,illaoi,lux]zxc4940828
