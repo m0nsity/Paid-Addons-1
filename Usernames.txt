@@ -113,7 +113,7 @@
 [lux]kazd
 [yasuo]Maverick
 [yasuo]xtyyhs520
-[yasuo]POPSTER
+[yasuo,lux]POPSTER
 [yasuo]494959502
 [yasuo]breno011005
 [yasuo]Plureal
