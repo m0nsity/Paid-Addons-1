@@ -119,7 +119,7 @@
 [yasuo]Plureal
 [lux]michiman
 [yasuo]eforos
-[yasuo,illaoi,lux]bagelskull
+[yasuo]bagelskull
 [yasuo]lukasbf717
 [yasuo]nicho43
 [yasuo]MrEklo
