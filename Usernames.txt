@@ -132,3 +132,4 @@
 [yasuo]ShadyXV
 [lux]toonwizard
 [yasuo,illaoi,lux]zxc4940828
+[lux]924534581
