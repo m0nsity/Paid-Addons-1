@@ -133,3 +133,4 @@
 [lux]toonwizard
 [yasuo,illaoi,lux]zxc4940828
 [lux]924534581
+[yasuo]a1912325908
