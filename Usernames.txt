@@ -137,3 +137,4 @@
 [yasuo]Makeme
 [yasuo,illaoi]PhantomVoid
 [lux]omfgabriel
+[lux]gtaps3
