@@ -138,3 +138,6 @@
 [yasuo,illaoi]PhantomVoid
 [lux]omfgabriel
 [lux]gtaps3
+[yasuo]VuanGod
+[yasuo]BiggieSmalls
+[yasuo]stylernic
