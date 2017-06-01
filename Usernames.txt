@@ -142,3 +142,6 @@
 [yasuo]BiggieSmalls
 [yasuo]stylernic
 [yasuo]hnlj0128
+[yasuo]wuvs
+[lux]fullofji3ap7
+[yasuo]mrklown
