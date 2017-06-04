@@ -156,3 +156,4 @@
 [yasuo]leon963
 [yasuo]Zero45
 [yasuo]xmazinha
+[yasuo,lux]KwnPvP
