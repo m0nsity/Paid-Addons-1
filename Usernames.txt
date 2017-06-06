@@ -157,3 +157,5 @@
 [yasuo]Zero45
 [yasuo]xmazinha
 [yasuo,lux]KwnPvP
+[yasuo]Papermakin
+[lux]jeanky1983
