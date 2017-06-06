@@ -156,7 +156,7 @@
 [yasuo]leon963
 [yasuo]Zero45
 [yasuo]xmazinha
-[yasuo,lux]KwnPvP
+[yasuo,lux,illaoi]KwnPvP
 [yasuo]Papermakin
 [lux]jeanky1983
 [yasuo]excwnzr21
