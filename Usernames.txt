@@ -168,3 +168,4 @@
 [yasuo]FruitDealer
 [yasuo]flussey
 [yasuo]saad777
+[yasuo]bangrim
