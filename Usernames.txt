@@ -175,3 +175,4 @@
 [yasuo]yxlm5566
 [lux]OxyCo
 [lux]boletaz
+[yasuo]NAchallenjour
