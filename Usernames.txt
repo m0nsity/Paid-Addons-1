@@ -176,3 +176,4 @@
 [lux]OxyCo
 [lux]boletaz
 [yasuo]NAchallenjour
+[yasuo]Ryuichi
