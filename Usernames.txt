@@ -165,7 +165,7 @@
 [yasuo]Taxblue3
 [yasuo]alex3057
 [yasuo]kosovar
-[yasuo]FruitDealer
+[yasuo,lux]FruitDealer
 [yasuo]flussey
 [yasuo]saad777
 [yasuo]bangrim
