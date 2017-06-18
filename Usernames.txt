@@ -177,7 +177,7 @@
 [lux]boletaz
 [yasuo]NAchallenjour
 [yasuo]Ryuichi
-[yasuo]df23david
+[yasuo,lux]df23david
 [yasuo]PresetJunkie
 [yasuo]asdasd015
 [yasuo]100
