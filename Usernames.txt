@@ -190,3 +190,4 @@
 [lux]flaxia
 [yasuo]ImTroll
 [yasuo]wawayaya12
+[yasuo]yu830115
