@@ -199,3 +199,5 @@
 [yasuo]chromatic
 [yasuo]mychoice03
 [yasuo,lux]eloelay
+[yasuo]bbt
+[lux]wawayaya12
