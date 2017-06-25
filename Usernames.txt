@@ -198,3 +198,4 @@
 [illaoi]Sleev
 [yasuo]chromatic
 [yasuo]mychoice03
+[yasuo,lux]eloelay
