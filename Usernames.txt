@@ -202,3 +202,4 @@
 [yasuo]bbt
 [lux]wawayaya12
 [illaoi]vollpo
+[yasuo]Noragiri
