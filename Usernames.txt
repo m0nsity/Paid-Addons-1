@@ -205,3 +205,4 @@
 [yasuo]Noragiri
 [yasuo]chayi7382
 [yasuo]yanminglai
+[lux]kremisisupremo
