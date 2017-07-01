@@ -142,7 +142,7 @@
 [yasuo]BiggieSmalls
 [yasuo]stylernic
 [yasuo]hnlj0128
-[yasuo.lux]wuvs
+[yasuo,lux]wuvs
 [lux]fullofji3ap7
 [yasuo]mrklown
 [yasuo]koibito0301
