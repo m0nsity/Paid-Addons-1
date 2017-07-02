@@ -207,4 +207,4 @@
 [yasuo]yanminglai
 [lux]kremisisupremo
 [yasuo]faisalrko
-[yasuo]championsof67
+[yasuo,lux]championsof67
