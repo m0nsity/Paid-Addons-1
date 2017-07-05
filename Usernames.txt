@@ -43,7 +43,7 @@
 [all]Acheiropoiesis
 [all]RandomRitoSpy
 [all]Bik
-[illaoi,lux,yasuo]Pepes
+[illaoi,lux,yasuo,riven]Pepes
 [illaoi]bioblast
 [illaoi]bonoboxd
 [illaoi,yasuo]death1213
