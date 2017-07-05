@@ -43,6 +43,7 @@
 [all]Acheiropoiesis
 [all]RandomRitoSpy
 [all]Bik
+[riven]hi im gosu
 [illaoi,lux,yasuo,riven]Pepes
 [illaoi]bioblast
 [illaoi]bonoboxd
