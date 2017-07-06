@@ -43,6 +43,7 @@
 [all]Acheiropoiesis
 [all]RandomRitoSpy
 [all]Bik
+[all]davidlaura
 [riven]Akenia
 [riven]hi im gosu
 [illaoi,lux,yasuo,riven]Pepes
