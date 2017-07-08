@@ -211,3 +211,4 @@
 [yasuo]faisalrko
 [yasuo,lux]championsof67
 [lux]anonymousassasin
+[yasuo]DravenGG
