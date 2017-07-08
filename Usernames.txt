@@ -210,3 +210,4 @@
 [lux]kremisisupremo
 [yasuo]faisalrko
 [yasuo,lux]championsof67
+[lux]anonymousassasin
